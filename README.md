@@ -11,12 +11,11 @@
 I build **autonomous machines** — drones and ground robots that perceive their
 surroundings and decide where to go without a human in the loop.
 
-🔭 I'm currently working on **[Drone Autonomy in ROS 2](https://github.com/jalanths/Drone-Autonomy-ROS2)** — VFH+ avoidance, smart retrace, and autonomous waypoint missions on ArduPilot SITL<br>
-👯 I'm looking to collaborate on **open-source robotics** and hardware/AI integration — ROS 2, MAVLink, Pixhawk, Raspberry Pi<br>
-🤝 I'm looking for help with **dynamic obstacle avoidance** in cluttered 3D environments and navigating complex road conditions<br>
-🌱 I'm currently learning **semantic segmentation** — targeting on-board inference on the Hailo-8 AI HAT<br>
-💬 Ask me about anything from training YOLOv8 detectors to wiring up an ESP32 and a servo<br>
-⚡ Fun fact: my desk is basically a hardware store — there's always an ESP32, a servo, or a Raspberry Pi within arm's reach
+🔭 **Building** — [Drone Autonomy in ROS 2](https://github.com/jalanths/Drone-Autonomy-ROS2): VFH+ avoidance, smart retrace, full autonomous missions on ArduPilot SITL<br>
+🌱 **Learning** — semantic segmentation, headed for on-board inference on the Hailo-8 AI HAT<br>
+🤝 **Open to** — open-source robotics and hardware/AI integration; anything with a Pixhawk in it<br>
+💬 **Ask me about** — training YOLOv8 detectors, ENU vs NED frame conventions, or wiring an ESP32 to a servo<br>
+⚡ **Fun fact** — my drone's first avoidance system only worked when flying **east**. "Front" was hard-coded to `+x` of the `odom` frame, so *dodge left* meant *dodge north* no matter which way the nose was pointing.
 
 I care about systems that actually fly, not just simulations that compile.
 
