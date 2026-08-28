@@ -49,25 +49,29 @@ ARM → TAKEOFF → WP1 … WP6  (live avoidance) → SMART RETRACE → LAND
 
 ## 🧠 Tech Stack
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 **Robotics & Autonomy**
 
-`ROS 2 Humble` • `Nav2` • `slam_toolbox` • `AMCL` • `MAVROS` • `MAVLink` • `ArduPilot SITL` • `Gazebo` • `RViz2` • `colcon`
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-4B8BBE?style=for-the-badge) ![SLAM Toolbox](https://img.shields.io/badge/SLAM%20Toolbox-5A5A5A?style=for-the-badge) ![MAVROS](https://img.shields.io/badge/MAVROS-2C3E50?style=for-the-badge) ![MAVLink](https://img.shields.io/badge/MAVLink-1B5E20?style=for-the-badge) ![ArduPilot](https://img.shields.io/badge/ArduPilot-C62828?style=for-the-badge) ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge) ![RViz2](https://img.shields.io/badge/RViz2-37474F?style=for-the-badge) ![Pixhawk](https://img.shields.io/badge/Pixhawk-263238?style=for-the-badge)
 
 **AI / Computer Vision**
 
-`YOLOv8` • `Ultralytics` • `OpenCV` • `scikit-learn` • `NLTK` • `TF-IDF` • `NumPy`
-
-**Languages**
-
-`Python` • `C++` • `TypeScript` • `JavaScript` • `Dart / Flutter` • `HTML/CSS`
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit----learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 
 **Web & 3D**
 
-`React 19` • `Three.js` • `React Three Fiber` • `Tailwind` • `Vite` • `Flask`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Systems & Hardware**
+**IoT & Hardware**
 
-`Ubuntu 22.04` • `Linux` • `Git` • `ZeroMQ` • `MQTT` • `Node-RED` • `ESP32` • `Pixhawk` • `Raspberry Pi 5` • `RPLiDAR` • `Picamera2`
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![Node--RED](https://img.shields.io/badge/Node----RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white) ![RPLiDAR](https://img.shields.io/badge/RPLiDAR-455A64?style=for-the-badge) ![ZeroMQ](https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
