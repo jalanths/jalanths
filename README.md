@@ -11,10 +11,12 @@
 I build **autonomous machines** — drones and ground robots that perceive their
 surroundings and decide where to go without a human in the loop.
 
-My work sits at the intersection of **ROS 2, flight control, and real-time
-perception**: VFH+ obstacle avoidance on live LiDAR, SLAM and Nav2 waypoint
-missions, YOLOv8 target tracking streamed between a companion Pi and a host GPU,
-and MAVLink/MAVROS bridges down to Pixhawk hardware.
+🔭 I'm currently working on **[Drone Autonomy in ROS 2](https://github.com/jalanths/Drone-Autonomy-ROS2)** — VFH+ avoidance, smart retrace, and autonomous waypoint missions on ArduPilot SITL<br>
+👯 I'm looking to collaborate on **open-source robotics** and hardware/AI integration — ROS 2, MAVLink, Pixhawk, Raspberry Pi<br>
+🤝 I'm looking for help with **dynamic obstacle avoidance** in cluttered 3D environments and navigating complex road conditions<br>
+🌱 I'm currently learning **semantic segmentation** — targeting on-board inference on the Hailo-8 AI HAT<br>
+💬 Ask me about anything from training YOLOv8 detectors to wiring up an ESP32 and a servo<br>
+⚡ Fun fact: my desk is basically a hardware store — there's always an ESP32, a servo, or a Raspberry Pi within arm's reach
 
 I care about systems that actually fly, not just simulations that compile.
 
