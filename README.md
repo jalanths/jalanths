@@ -58,7 +58,7 @@ ARM → TAKEOFF → WP1 … WP6  (live avoidance) → SMART RETRACE → LAND
 
 **Languages**
 
-`Python` • `C++` • `TypeScript` • `JavaScript` • `HTML/CSS`
+`Python` • `C++` • `TypeScript` • `JavaScript` • `Dart / Flutter` • `HTML/CSS`
 
 **Web & 3D**
 
@@ -66,7 +66,7 @@ ARM → TAKEOFF → WP1 … WP6  (live avoidance) → SMART RETRACE → LAND
 
 **Systems & Hardware**
 
-`Ubuntu 22.04` • `Linux` • `Git` • `ZeroMQ` • `Pixhawk` • `Raspberry Pi 5` • `RPLiDAR` • `Picamera2`
+`Ubuntu 22.04` • `Linux` • `Git` • `ZeroMQ` • `MQTT` • `Node-RED` • `ESP32` • `Pixhawk` • `Raspberry Pi 5` • `RPLiDAR` • `Picamera2`
 
 ---
 
@@ -102,6 +102,27 @@ End-to-end NLP pipeline on the BBC news corpus
 - Lemmatisation + TF-IDF (5000 features)
 - Naïve Bayes / Logistic Regression / Linear SVM compared — **98.88%** accuracy
 - Deployed as a Flask web app
+
+---
+
+## 🏆 Achievements
+
+**🥇 1st Place — EmbedX Hackathon (Xlyem, IoT & Embedded Systems)** · PES University, Bengaluru · Feb 2026
+- Won first place against multiple teams for an end-to-end IoT solution
+- Built a **Smart Water Management & Leak Detection System** — ESP32, MQTT, Node-RED dashboard,
+  autonomous shutoff, and real-time anomaly detection
+
+**🛡️ PARXIS Hackathon (AI/ML Department)** · PES University, Bengaluru · Mar 2026
+- AI/ML vulnerability assessment and red-teaming
+- Built **ThreatLens** — an AI model vulnerability scanner evaluating LLMs against the **OWASP Top 10**,
+  with dual-layer detection and adaptive payload generation
+
+**⚙️ Ignition Hackathon** · PES University, Bengaluru · Nov 2025
+- End-to-end IoT build: hardware interfacing, embedded programming, backend connectivity
+
+**📜 Certifications**
+- **AI and Big Data in IoT** — Great Learning · Oct 2025
+- **App Development using Flutter** — PESU I/O, PES University · Oct–Nov 2024
 
 ---
 
